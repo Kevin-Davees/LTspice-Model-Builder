@@ -1,4 +1,4 @@
-# LTspice Model Builder v3.2
+# LTspice Model Builder v4
 
 > **Generate production-ready LTspice `.lib` models directly from datasheet parameters — no SPICE expertise required.**
 
@@ -136,7 +136,7 @@ Every generated model includes a standard file header:
 * Model  : IRF540N
 * Type   : MOSFET (N-Channel)
 * Mfr    : Vishay
-* Tool   : LTspice Model Builder v3.2
+* Tool   : LTspice Model Builder v4
 * Date   : 2026-03-16 14:22:05
 * ============================================
 ```
